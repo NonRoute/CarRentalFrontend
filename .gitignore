@@ -36,7 +36,7 @@ next-env.d.ts
 
 # cypress
 /cypress
-src/component/*.cy.tsx
+src/components/*.cy.tsx
 cypress.config.ts
 
 # jest
